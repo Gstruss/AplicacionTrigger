@@ -1,2 +1,2 @@
-# AplicacionTrigger
-Ejemplo de un Trigger de una BD de un Supermercado
+# Aplicacion Trigger
+Ejemplo de un Trigger que mantiene el inventario actualizado de una BD de un Supermercado
